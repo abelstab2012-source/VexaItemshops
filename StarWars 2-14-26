@@ -1,0 +1,35 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [ "AthenaCharacter:CID_634_Athena_Commando_F_GalileoRocket_ARVEH", "AthenaPickaxe:Pickaxe_ID_328_GalileoRocket_SNC0L" ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [ "AthenaDance:EID_Galileo4_PXPE0" ],
+    "price": 500
+  },
+  "daily3": {
+    "itemGrants": [ "AthenaCharacter:CID_635_Athena_Commando_M_GalileoSled_FHJVM" ],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": [ "AthenaDance:EID_Galileo2_2VYEJ" ],
+    "price": 500
+  },
+  "daily5": {
+    "itemGrants": [ "AthenaCharacter:CID_633_Athena_Commando_M_GalileoFerry_PA3E1" ],
+    "price": 800
+  },
+  "daily6": {
+    "itemGrants": [ "AthenaGlider:Glider_ID_187_GalileoKayak_Q8THV" ],
+    "price": 800
+  },
+  "featured1": {
+    "itemGrants": [ "AthenaGlider:Glider_ID_186_GalileoFerry_48L4V" ],
+    "price": 1500
+  },
+  "featured2": {
+    "itemGrants": [ "AthenaCharacter:CID_631_Athena_Commando_M_GalileoKayak_VXLDB", "AthenaBackpack:BID_426_GalileoKayak_NS67T", "AthenaPickaxe:Pickaxe_ID_327_GalileoKayak_50NFG", "AthenaDance:EID_Galileo1_B3EX6" ],
+    "price": 1500
+  }
+}
