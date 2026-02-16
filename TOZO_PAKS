@@ -1,0 +1,259 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": ["AthenaCharacter:Character_Dummy"],
+        "price": 0
+    },
+    "daily2": {
+        "itemGrants": ["AthenaCharacter:Character_FazBalls"],
+        "price": 0
+    },
+    "daily3": {
+        "itemGrants": ["AthenaCharacter:Character_KelpLinenCalcium"],
+        "price": 0
+    },
+    "daily4": {
+        "itemGrants": ["AthenaCharacter:Character_MirageHike"],
+        "price": 0
+    },
+    "daily5": {
+        "itemGrants": ["AthenaCharacter:Character_NutmegMayo"],
+        "price": 0
+    },
+    "daily6": {
+        "itemGrants": ["AthenaCharacter:Character_OFIK"],
+        "price": 0
+    },
+    "daily7": {
+        "itemGrants": ["AthenaCharacter:Character_PHIK"],
+        "price": 0
+    },
+    "daily8": {
+        "itemGrants": ["AthenaCharacter:Character_RoseDust"],
+        "price": 0
+    },
+    "daily9": {
+        "itemGrants": ["AthenaCharacter:Character_Skeleton"],
+        "price": 0
+    },
+    "daily10": {
+        "itemGrants": ["AthenaCharacter:Character_StallionAviator"],
+        "price": 0
+    },
+    "daily11": {
+        "itemGrants": ["AthenaCharacter:Character_SuperHero"],
+        "price": 0
+    },
+    "daily12": {
+        "itemGrants": ["AthenaCharacter:Character_SweetLetter"],
+        "price": 0
+    },
+    "daily13": {
+        "itemGrants": ["AthenaCharacter:Character_Temple"],
+        "price": 0
+    },
+    "daily14": {
+        "itemGrants": ["AthenaCharacter:Character_WildCat"],
+        "price": 0
+    },
+    "featured1": {
+        "itemGrants": ["AthenaCharacter:CID_869_Athena_Commando_F_Cavalry"],
+        "price": 0
+    },
+    "featured2": {
+        "itemGrants": ["AthenaCharacter:CID_CJ"],
+        "price": 0
+    },
+    "featured3": {
+        "itemGrants": ["AthenaCharacter:CID_Drake"],
+        "price": 0
+    },
+    "featured4": {
+        "itemGrants": ["AthenaCharacter:CID_FearlessFlightHero"],
+        "price": 0
+    },
+    "featured5": {
+        "itemGrants": ["AthenaCharacter:CID_GhostFace"],
+        "price": 0
+    },
+    "featured6": {
+        "itemGrants": ["AthenaCharacter:CID_HuggyWuggy"],
+        "price": 0
+    },
+    "featured7": {
+        "itemGrants": ["AthenaCharacter:CID_HuggyWuggy"],
+        "price": 0
+    },
+    "featured8": {
+        "itemGrants": ["AthenaCharacter:CID_Putin"],
+        "price": 0
+    },
+    "featured9": {
+        "itemGrants": ["AthenaCharacter:CID_Quagmire"],
+        "price": 0
+    },
+    "featured10": {
+        "itemGrants": ["AthenaCharacter:CID_Skirmish"],
+        "price": 0
+    },
+    "featured11": {
+        "itemGrants": ["AthenaCharacter:CID_SlenderMan"],
+        "price": 0
+    },
+    "featured12": {
+        "itemGrants": ["AthenaCharacter:CID_SquidWard"],
+        "price": 0
+    },
+    "featured13": {
+        "itemGrants": ["AthenaCharacter:CID_Steve"],
+        "price": 0
+    },
+    "featured14": {
+        "itemGrants": ["AthenaCharacter:CID_SunriseCastle"],
+        "price": 0
+    },
+    "featured15": {
+        "itemGrants": ["AthenaCharacter:CID_Tupac"],
+        "price": 0
+    },
+    "featured16": {
+        "itemGrants": ["AthenaCharacter:CID_WalterWhite"],
+        "price": 0
+    },
+    "featured17": {
+        "itemGrants": ["AthenaCharacter:CID_XXX"],
+        "price": 0
+     },
+    "featured18": {
+        "itemGrants": ["AthenaMusicPack:MPID_Godzilla"],
+        "price": 0
+    },
+    "featured19": {
+        "itemGrants": ["AthenaMusicPack:MPID_SuperHero"],
+        "price": 0
+    },
+    "featured20": {
+        "itemGrants": ["AthenaMusicPack:MPID_GooseBumps"],
+        "price": 0
+    },
+    "featured21": {
+        "itemGrants": ["AthenaMusicPack:MPID_EOYP"],
+        "price": 0
+    },
+    "featured22": {
+        "itemGrants": ["AthenaMusicPack:MPID_Lucid"],
+        "price": 0
+    },
+    "featured23": {
+        "itemGrants": ["AthenaDance:EID_Caffeine"],
+        "price": 0
+    },
+    "featured24": {
+        "itemGrants": ["AthenaDance:EID_TocaToca"],
+        "price": 0
+    },
+    "featured25": {
+        "itemGrants": ["AthenaDance:EID_Resonant"],
+        "price": 0
+    },
+    "featured26": {
+        "itemGrants": ["AthenaDance:EID_Shimmy"],
+        "price": 0
+    },
+    "featured27": {
+        "itemGrants": ["AthenaDance:EID_Ringer"],
+        "price": 0
+    },
+    "featured28": {
+        "itemGrants": ["AthenaDance:EID_PhutHon"],
+        "price": 0
+    },
+    "featured29": {
+        "itemGrants": ["AthenaDance:EID_HeyMama"],
+        "price": 0
+    },
+    "featured30": {
+        "itemGrants": ["AthenaDance:EID_Kelplinen_Calcium"],
+        "price": 0
+    },
+    "featured31": {
+        "itemGrants": ["AthenaDance:EID_Reveal"],
+        "price": 0
+    },
+    "featured32": {
+        "itemGrants": ["AthenaDance:EID_Tons_49FGX"],
+        "price": 0
+    },
+    "featured33": {
+        "itemGrants": ["AthenaDance:EID_JadeTowel"],
+        "price": 0
+    },
+    "featured34": {
+        "itemGrants": ["AthenaDance:EID_Melody"],
+        "price": 0
+    },
+    "featured35": {
+        "itemGrants": ["AthenaDance:EID_RapGod"],
+        "price": 0
+    },
+    "featured36": {
+        "itemGrants": ["AthenaDance:EID_7Rings"],
+        "price": 0
+    },
+    "featured37": {
+        "itemGrants": ["AthenaDance:EID_DownTheDrain"],
+        "price": 0
+    },
+    "featured38": {
+        "itemGrants": ["AthenaDance:EID_Dimension"],
+        "price": 0
+    },
+    "featured39": {
+        "itemGrants": ["AthenaDance:EID_Hana"],
+        "price": 0
+    },
+    "featured40": {
+        "itemGrants": ["AthenaDance:EID_BuffCatComic_EV4HK"],
+        "price": 0
+    },
+    "featured41": {
+        "itemGrants": ["AthenaDance:EID_Egocentric"],
+        "price": 0
+    },
+    "featured42": {
+        "itemGrants": ["AthenaDance:EID_GalaxyLevel"],
+        "price": 0
+    },
+    "featured43": {
+        "itemGrants": ["AthenaDance:EID_TSON_Ember"],
+        "price": 0
+    },
+    "featured43": {
+        "itemGrants": ["AthenaDance:EID_Bulletproof"],
+        "price": 0
+    },
+    "featured44": {
+        "itemGrants": ["AthenaDance:EID_RatDance"],
+        "price": 0
+    },
+    "featured45": {
+        "itemGrants": ["AthenaDance:EID_Downward"],
+        "price": 0
+    },
+    "featured46": {
+        "itemGrants": ["AthenaDance:EID_Camouflage"],
+        "price": 0
+    },
+    "featured47": {
+        "itemGrants": ["AthenaDance:EID_Deceiver"],
+        "price": 0
+    },
+    "featured48": {
+        "itemGrants": ["AthenaDance:EID_Bewilder"],
+        "price": 0
+    },
+    "featured49": {
+        "itemGrants": ["AthenaDance:EID_Feelings"],
+        "price": 0
+    }
+}
