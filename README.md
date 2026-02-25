@@ -1,3 +1,6 @@
-VEXA ITEMSHOP CONFIGS 
+ITEMSHOP CONFIGS 
 ----------------------
-Do not take it please 😊
+Feel Free To Take! 😊
+
+----------------------
+Credit to Vexa Server
